@@ -18,7 +18,6 @@ for k in words:
         v = str(words[k])
     else:
         v = v + " " + str(words[k])
-
 print(v)
     
 
